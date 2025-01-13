@@ -23,7 +23,7 @@ description: "Empowering businesses with AI-driven solutions."
 author     : Shane Hall
 logo:  #optional, defaults to site title
   path: assets/img/monogramframes_114_882_ft.svg
-  # height: 60 #height in px, defaults to 52px
+  height: 100 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
