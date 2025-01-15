@@ -4,3 +4,5 @@ _site
 .jekyll-cache
 Gemfile.lock
 fast-transients.code-workspace
+.vscode
+.DS_Store

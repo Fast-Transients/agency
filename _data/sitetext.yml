@@ -73,11 +73,11 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    #legal: "Privacy Policy"
     social:
       - url: https://linkedin.com/in/shanephall
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/shanephall/fast-transients
+      - url: https://github.com/shanephall/
         icon: "fab fa-github"
 en-US:
   <<: *DEFAULT_EN
